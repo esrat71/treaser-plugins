@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        "elementor",
+        "elementskit-lite",
+        "metform",
+        "unyson",
+        "easy-digital-downloads",
+        "one-click-demo-import",
+    ]
+}
